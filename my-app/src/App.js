@@ -60,7 +60,7 @@ function App() {
     <div className="box">
     <h2 id="chirst">Chirst the Redeemer</h2>
     <p>It's one of the largest statues of Jesus and the tallest art deco statue in the world. Christ the Redeemer reaches a height of 30 metres and boasts an 
-      arm span of 28 metres
+      arm span of 28 metres.
     </p>
     <center><img src="chirst.jpg" className="wonder"/></center>
     </div>
